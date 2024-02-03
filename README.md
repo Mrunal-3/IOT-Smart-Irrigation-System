@@ -1,2 +1,4 @@
 ### IOT Smart Irrigation System
 #### https://www.tinkercad.com/things/lAgalfk7Xmd-automatic-irrigation-system-eiot-mini-project/editel?sharecode=wdmGt_pndk-74B0ZvI39YfG_eb8ORtflgbRa_WlcDUk
+
+In India, agriculture is without a doubt the main source of income. Increasing agricultural production is necessary due to population growth. For increased support due to increased farm production, more fresh water must be used for irrigation.One of the major factors affecting agriculture is temperature as it affects the water content of the soil. For this we have used different sensors to check the moisture, temperature, ultrasonic distance sensor, dc motor etc. Our main task was calculating all the factors and we will compare them and then we will present them in graphical format. This would help farmers to understand the  progress of the fields and also help them to detect if any bird comes to destroy the farm.
